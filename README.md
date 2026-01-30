@@ -1,6 +1,6 @@
 # ¡Hola! Soy BenyaOps 👋
 
-### Full Stack Developer | AWS Certified Cloud Practitioner | Technical Lead
+### Technical Lead | Full Stack Developer | AWS Certified Cloud Practitioner 
 
 Desarrollador Full Stack enfocado en la construccion de sistemas y la optimización de infraestructuras cloud de AWS. Mi práctica técnica se centra en blindar la integridad de datos mediante el aislamiento de recursos en subredes privadas de AWS, reducir la latencia de carga (FCP < 1s) y automatizar procesos críticos de backend para garantizar la continuidad operativa en entornos de alta criticidad.
 
