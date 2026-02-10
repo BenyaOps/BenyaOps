@@ -28,9 +28,9 @@ Resolviendo problemas que impactan el ROI:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ Cloud (AWS Certified)
+### ☁️ Cloud (AWS Certified) 
 ![AWS Cloud Practitoner](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-*(Servicios: EC2, S3, RDS/Aurora, Amplify, Route 53, VPC Security)*
+*(Servicios: EC2, S3, RDS/Aurora, Amplify, Route 53, VPC Security)* [Certificado](https://www.credly.com/badges/d27f5fbc-0dfc-40b3-9dbd-f1899ee4048d/linked_in_profile)
 
 ---
 
